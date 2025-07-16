@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588446879852",
+    "project_id": "userlistfb-b03a4",
+    "storage_bucket": "userlistfb-b03a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588446879852:android:27c99ab47e864987edc849",
+        "android_client_info": {
+          "package_name": "com.listusersfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcshn9JMXPxm9YOJCdg3tPdWRJm88cEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
